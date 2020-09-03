@@ -1,5 +1,5 @@
 # L-gica-de-Programa-o-em-C
-Algoritmos em C envolvendo conhecimento básico de programação
+Algoritmo em C envolvendo conhecimento básico de programação.
 
 #include <stdio.h>
 #include <math.h>
